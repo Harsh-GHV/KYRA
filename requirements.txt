@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+accelerate
+Pillow
+pyngrok
+pyttsx3
+SpeechRecognition
+sounddevice
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/diffusers.git
