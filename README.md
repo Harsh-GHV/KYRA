@@ -126,5 +126,14 @@ This project is licensed under the **MIT License**. You're free to modify and us
 - Replace `your-username` with your actual GitHub username.
 - If you want a live **demo badge**, **project logo**, or **screenshots**, let me know — I can add those next.
 
-Would you like me to generate a `logo.png` or banner image for the top of your README next?
-```
+## KYRA Features (Updated with Offline Mobile Capabilities)
+
+### Mobile App Offline Features:
+- Offline text chatting (flirting, talking, casual conversations) without internet.
+- Persistent offline memory:
+  - Remembers your birthday and special dates.
+  - Recites personalized poems or love notes on birthdays and anniversaries.
+- Offline notifications on regular days:
+  - Sends sweet messages like “Love you,” “My favorite,” “Miss you,” etc., automatically.
+- All offline features run locally on the device, ensuring privacy and instant responses without needing internet access.
+
